@@ -1,0 +1,105 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "iPhone",
+      "description": "The phone comes with a 5.80-inch touchscreen display with a resolution of 1125x2436 pixels at a pixel density of 458 pixels per inch (ppi). iPhone 11 Pro is powered by a hexa-core Apple A13 Bionic processor. It comes with 4GB of RAM. The iPhone 11 Pro runs iOS 13 and is powered by a 3046mAh non-removable battery.",
+      "imageUrl": "https://images-eu.ssl-images-amazon.com/images/G/31/img18/Wireless/AppleProjectEye/Updated/AMZ_FamiyStripe_iPhone_11Pro._CB437064120_.png",
+      "price": 50000
+    },
+    {
+      "id": 2,
+      "name": "Headphones",
+      "description": "Headphones are small speakers that can be worn in or around your ears. Smaller headphones, often called earbuds or earphones, are placed inside the outer part of your ear canal.",
+      "imageUrl": "https://s24.q4cdn.com/511786472/files/doc_events/2016/10/1/BackBeat_PRO2_Black_Hero_screen_rgb_14JUL16-S@square.png",
+      "price": 5000
+    },
+    {
+      "id": 3,
+      "name": "Laptop",
+      "description": "A laptop (also laptop computer), is a small, portable personal computer (PC) with a clamshell form factor, typically having a thin LCD or LED computer screen mounted on the inside of the upper lid of the clamshell and an alphanumeric keyboard on the inside of the lower lid.",
+      "imageUrl": "https://content3.jdmagicbox.com/comp/bangalore/e5/080pxx80.xx80.100322165241.i3e5/catalogue/lenovo-flagship-store-malleswaram-bangalore-laptop-dealers-12twtx7-250.jpg",
+      "price": 45000
+    },
+    {
+      "id": 4,
+      "name": "PenDrive",
+      "description": "The definition of a pen drive is small storage device shaped like a pen with built-in data storage that connects to a computer by a USB port. An example of a pen drive is a pen with a hidden USB port for saving data.",
+      "imageUrl": "https://5.imimg.com/data5/ST/FS/HO/SELLER-21818468/4gb-swivel-otg-pendrive-250x250.jpg",
+      "price": 500
+    },
+    {
+      "id": 5,
+      "name": "TV",
+      "description": "Telegram television (also known as a TV) is a machine with a screen. Televisions receive broadcasting signals and change them into pictures and sound. The word television comes from the words tele (Greek for far away) and vision (sight)",
+      "imageUrl": "https://s.alicdn.com/@sc01/kf/Hd27b3b1211394165b013f777b2376b95h.jpg_300x300.jpg",
+      "price": 70000
+    },
+    {
+      "id": 6,
+      "name": "Projector",
+      "description": "A projector or image projector is an optical device that projects an image (or moving images) onto a surface, commonly a projection screen. Most projectors create an image by shining a light through a small transparent lens, but some newer types of projectors can project the image directly, by using lasers.",
+      "imageUrl": "https://content3.jdmagicbox.com/def_content/projectors_on_hire/default-projectors-on-hire-7-250.jpg",
+      "price": 100000
+    }
+  ],
+  "cart": [
+    {
+      "product": {
+        "id": 4,
+        "name": "PenDrive",
+        "description": "The definition of a pen drive is small storage device shaped like a pen with built-in data storage that connects to a computer by a USB port. An example of a pen drive is a pen with a hidden USB port for saving data.",
+        "imageUrl": "https://5.imimg.com/data5/ST/FS/HO/SELLER-21818468/4gb-swivel-otg-pendrive-250x250.jpg",
+        "price": 500
+      },
+      "id": 1
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Headphones",
+        "description": "Headphones are small speakers that can be worn in or around your ears. Smaller headphones, often called earbuds or earphones, are placed inside the outer part of your ear canal.",
+        "imageUrl": "https://s24.q4cdn.com/511786472/files/doc_events/2016/10/1/BackBeat_PRO2_Black_Hero_screen_rgb_14JUL16-S@square.png",
+        "price": 5000
+      },
+      "id": 2
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Headphones",
+        "description": "Headphones are small speakers that can be worn in or around your ears. Smaller headphones, often called earbuds or earphones, are placed inside the outer part of your ear canal.",
+        "imageUrl": "https://s24.q4cdn.com/511786472/files/doc_events/2016/10/1/BackBeat_PRO2_Black_Hero_screen_rgb_14JUL16-S@square.png",
+        "price": 5000
+      },
+      "id": 3
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Headphones",
+        "description": "Headphones are small speakers that can be worn in or around your ears. Smaller headphones, often called earbuds or earphones, are placed inside the outer part of your ear canal.",
+        "imageUrl": "https://s24.q4cdn.com/511786472/files/doc_events/2016/10/1/BackBeat_PRO2_Black_Hero_screen_rgb_14JUL16-S@square.png",
+        "price": 5000
+      },
+      "id": 4
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
